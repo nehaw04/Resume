@@ -70,8 +70,8 @@ Source Code
 📫 Connect with Me
 I'm always open to connecting with fellow developers, researchers, and tech enthusiasts. Feel free to reach out!
 
-LinkedIn: linkedin.com/in/your-profile
+LinkedIn: www.linkedin.com/in/nehxr
 
-GitHub: github.com/your-username
+GitHub: [github.com/your-username](https://github.com/nehaw04)
 
 Email: nehar.xiaeroor@gmail.com
