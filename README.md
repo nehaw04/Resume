@@ -14,11 +14,11 @@ I am a highly motivated Integrated M.Tech student at VIT Bhopal, specializing in
 🚀 Seeking to leverage my skills to contribute to innovative, impactful AI-driven projects.
 
 🛠️ Technical Skills
-Languages:
+    Languages:
 
-Python Java SQL
+      Python Java SQL
 
-Libraries & Frameworks:
+      Libraries & Frameworks:
 
 TensorFlow PyTorch Scikit-learn Pandas NumPy MediaPipe OpenCV Matplotlib
 
