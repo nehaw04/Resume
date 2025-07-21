@@ -72,6 +72,6 @@ I'm always open to connecting with fellow developers, researchers, and tech enth
 
 LinkedIn: www.linkedin.com/in/nehxr
 
-GitHub: [github.com/your-username](https://github.com/nehaw04)
+GitHub: https://github.com/nehaw04
 
 Email: nehar.xiaeroor@gmail.com
