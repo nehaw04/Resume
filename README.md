@@ -24,11 +24,11 @@ I am a highly motivated Integrated M.Tech student at VIT Bhopal, specializing in
 
 Developer Tools:
 
- Git GitHub VS Code Linux/Unix
+  Git GitHub VS Code Linux/Unix
 
 Core Concepts:
 
- Deep Learning Computer Vision Natural Language Processing (NLP) Generative AI Data Structures & Algorithms System Design
+  Deep Learning Computer Vision Natural Language Processing (NLP) Generative AI Data Structures & Algorithms System Design
 
 🚀 Projects Showcase
 Here are some of the projects I've worked on that highlight my skills and experience.
