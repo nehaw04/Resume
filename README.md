@@ -1,73 +1,115 @@
-# Resume
-Neha R | AI & Machine Learning Engineer
-<p align="center">
-<em>Bridging ideas and reality with data-driven solutions.</em>
-</p>
+<div align="center">
 
-👋 About Me
-I am a highly motivated Integrated M.Tech student at VIT Bhopal, specializing in Artificial Intelligence and Machine Learning, with a current CGPA of 8.51. My passion lies in engineering end-to-end solutions that tackle real-world challenges. I have hands-on experience developing and deploying deep learning models using Python, PyTorch, and TensorFlow, with a core focus on Computer Vision, Natural Language Processing (NLP), and Generative AI.
+# Neha R
+### Gen AI · ML Engineer · Agentic Systems
 
-🎓 Pursuing an Integrated M.Tech in Artificial Intelligence & Machine Learning.
+[![Email](https://img.shields.io/badge/Email-nehar.xiaeroor%40gmail.com-0057B7?style=flat-square&logo=gmail&logoColor=white)](mailto:nehar.xiaeroor@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nehxr-0057B7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehxr)
+[![GitHub](https://img.shields.io/badge/GitHub-nehaw04-0057B7?style=flat-square&logo=github&logoColor=white)](https://github.com/nehaw04)
+[![Trailhead](https://img.shields.io/badge/Salesforce-Ranger-0057B7?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/nehxr)
 
-💡 Passionate about building practical AI tools and systems from the ground up.
+</div>
 
-🚀 Seeking to leverage my skills to contribute to innovative, impactful AI-driven projects.
+---
 
-🛠️ Technical Skills
-    Languages:
+## About
 
-      Python Java SQL | Libraries & Frameworks | TensorFlow PyTorch Scikit-learn Pandas NumPy MediaPipe OpenCV Matplotlib
+M.Tech student in **AI & Machine Learning** at VIT Bhopal (CGPA **8.60 / 10**), graduating May 2027.
 
-Developer Tools:
+I build things that work at scale — agentic pipelines, fine-tuned LLMs, and high-performance compute systems. I like problems where the gap between a good solution and a great one is measurable.
 
-  Git | GitHub | VS Code | Linux/Unix
+---
 
-Core Concepts:
+## Skills
 
-  Deep Learning | Computer Vision | Natural Language Processing (NLP)| Generative AI| Data Structures & Algorithms |System Design
+| Area | Stack |
+|---|---|
+| **Agentic & GenAI** | LangChain · LangGraph · CrewAI · Multi-Agent Systems · RAG · Prompt Engineering |
+| **Cloud & AWS** | Bedrock · SageMaker · Lambda · API Gateway · DynamoDB · EC2 · S3 |
+| **ML & Models** | PyTorch · Transformers · LoRA/QLoRA · ONNX · Model Evaluation · NLP |
+| **Databases** | FAISS · PGVector · ChromaDB · PostgreSQL · SOQL · NoSQL |
+| **Engineering** | Python · C++ · Java · Docker · CI/CD · REST APIs · Git · Linux |
+| **Concepts** | System Design · OOP · Multithreading · OS Fundamentals · Agile |
 
-🚀 Projects Showcase
-Here are some of the projects I've worked on that highlight my skills and experience.
+---
 
-1. Generative AI for Automated Floor Plan Generation
-Engineered a novel generative AI system to automate architectural design, translating natural language descriptions into structured, accurate floor plans.
+## Projects
 
-Key Features:
+### Agentic Workflow Automation & RAG &nbsp;`Dec 2025`
+`Python` `LangGraph` `AWS Bedrock` `FAISS`
 
-Achieved a BLEU score of 82.56 and 91.2% dimensional accuracy by fine-tuning a T5 Transformer model.
+End-to-end agentic system that automates loan sanctioning workflows with full banking compliance.
 
-Developed a data augmentation pipeline for the ProcThor-10k dataset, generating over 34,000 unique training examples to enhance model robustness.
+- **85% faster** end-to-end processing time
+- RAG pipeline grounding LLM responses in live policy data → **100% compliance**
+- Multi-agent orchestration with deterministic execution and safety guardrails
+- Automated retry logic improved transaction success rate by **30%**
 
-Implemented a rule-based validation system to ensure the architectural integrity of generated layouts.
+---
 
-Delivered a practical AI design tool that reduced layout generation time to an average of 3.2 seconds.
+### Enterprise LLM Fine-tuning & Evaluation &nbsp;`Jan 2026`
+`SageMaker` `PyTorch` `QLoRA` `ONNX`
 
-Technologies Used: PyTorch, Hugging Face Transformers, Pandas, NumPy, Matplotlib
+Fine-tuned and production-optimized Llama-2-7b for domain-specific data analysis.
 
-Source Code
+- **2× faster** token generation via ONNX Runtime graph optimizations
+- **60% smaller** memory footprint using 4-bit quantization
+- AI observability pipelines monitoring latency and model drift in production
 
-2. Real-Time Sign Language Detection
-Developed an end-to-end system to interpret and translate sign language gestures into text in real-time using computer vision and sequential deep learning models.
+---
 
-Key Features:
+### High-Performance Compute Engine &nbsp;`Jan 2026`
+`C++` `std::thread` `Linux`
 
-Built a real-time demonstration module using OpenCV that processes live camera feeds and displays translated text instantly.
+Multithreaded matrix computation engine built from the ground up for AI workloads.
 
-Trained an LSTM-based model on a custom dataset of gesture sequences, achieving over 90% categorical accuracy.
+- **1.8× speedup** on 4-core systems via parallel workload partitioning
+- **20% throughput gain** through cache-locality-aware memory access patterns
+- Thread-safe state management using OS-level synchronization primitives
 
-Utilized MediaPipe for high-fidelity hand and body keypoint extraction.
+---
 
-Analyzed model performance and overfitting issues using TensorBoard, proposing data augmentation and hybrid architectures for future improvements.
+### AutoForm AI — Document Processing System &nbsp;`Nov 2025`
+`Python` `OpenCV` `Docker` `REST APIs`
 
-Technologies Used: TensorFlow, Keras, OpenCV, MediaPipe, Scikit-learn, NumPy
+Automated document processing pipeline with full containerized deployment.
 
-Source Code
+- Processing time: **14 min → 3 min**
+- REST API layer for modular system integration
+- OpenCV preprocessing for improved accuracy; Dockerized for Linux deployment
 
-📫 Connect with Me
-I'm always open to connecting with fellow developers, researchers, and tech enthusiasts. Feel free to reach out!
+---
 
-LinkedIn: www.linkedin.com/in/nehxr
+## Experience
 
-GitHub: https://github.com/nehaw04
+### Salesforce Intern &nbsp;·&nbsp; Impaqtive (An Infogain Company) &nbsp;`Oct – Dec 2025`
 
-Email: nehar.xiaeroor@gmail.com
+- Built automation workflows in Salesforce Flows, improving process efficiency by **35%**
+- Refactored SOQL logic, cutting report generation from **14 minutes to under 3 minutes**
+- Designed data models, validation logic, and API-based integrations across business systems
+- Authored **50+ pages** of architecture and API documentation
+
+---
+
+## Certifications
+
+- 🏅 **Salesforce Agentblazer Champion** · Ranger Rank on Trailhead · 2025
+- ☁️ **Cloud Computing** · NPTEL · 2024
+- 🤖 **Applied Machine Learning in Python** · University of Michigan / Coursera · 2023
+- 🔧 **AWS Technical Essentials** · EC2, S3, DynamoDB
+
+---
+
+## Education
+
+**Vellore Institute of Technology (VIT), Bhopal**
+Integrated M.Tech — Artificial Intelligence & Machine Learning
+`Aug 2022 – May 2027` &nbsp;·&nbsp; CGPA **8.60 / 10.0**
+
+*Distributed Systems · Operating Systems · Parallel Computing · Deep Learning · Computer Architecture*
+
+---
+
+<div align="center">
+<sub>Open to internships, research collaborations, and full-time roles in AI/ML engineering.</sub>
+</div>
