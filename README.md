@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nehxr-0057B7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehxr)
 [![GitHub](https://img.shields.io/badge/GitHub-nehaw04-0057B7?style=flat-square&logo=github&logoColor=white)](https://github.com/nehaw04)
 [![Trailhead](https://img.shields.io/badge/Salesforce-Ranger-0057B7?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/nehxr)
+[![Resume](https://img.shields.io/badge/Resume-Download-0057B7?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1BG2eeR2Q-MxtVtyP8aiU2mswPH3xradK?usp=sharing)
 
 </div>
 
