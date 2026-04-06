@@ -1,15 +1,3 @@
-<div align="center">
-
-# Neha R
-### Gen AI · ML Engineer · Agentic Systems
-
-[![Email](https://img.shields.io/badge/Email-nehar.xiaeroor%40gmail.com-0057B7?style=flat-square&logo=gmail&logoColor=white)](mailto:nehar.xiaeroor@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nehxr-0057B7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehxr)
-[![GitHub](https://img.shields.io/badge/GitHub-nehaw04-0057B7?style=flat-square&logo=github&logoColor=white)](https://github.com/nehaw04)
-[![Trailhead](https://img.shields.io/badge/Salesforce-Ranger-0057B7?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/nehxr)
-[![Resume](https://img.shields.io/badge/Resume-Download-0057B7?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/drive/folders/1BG2eeR2Q-MxtVtyP8aiU2mswPH3xradK?usp=sharing)
-
-</div>
 
 ---
 
@@ -113,7 +101,7 @@ Automated document processing pipeline with containerized deployment.
 - 🏅 **Salesforce Agentblazer Champion** · Ranger Rank on Trailhead · 2025
 - ☁️ **Cloud Computing** · NPTEL · 2024
 - 🤖 **Applied Machine Learning in Python** · University of Michigan / Coursera · 2023
-- 🔧 **AWS Technical Essentials** · EC2, S3, DynamoDB
+- 🔧 **AWS Solution Architect - Associate** · EC2, S3, DynamoDB
 
 ---
 
@@ -123,7 +111,7 @@ Automated document processing pipeline with containerized deployment.
 Integrated M.Tech — Artificial Intelligence & Machine Learning  
 `Aug 2022 – May 2027` &nbsp;·&nbsp; CGPA **8.60 / 10.0**
 
-*Distributed Systems · Operating Systems · Parallel Computing · Deep Learning · Computer Architecture*
+*Distributed Systems · Operating Systems · Machine Learning · Deep Learning · Computer Architecture*
 
 ---
 
