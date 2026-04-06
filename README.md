@@ -33,7 +33,7 @@ I like problems where the gap between a good solution and a great one is measura
 | **Cloud & AWS** | Bedrock · SageMaker · Lambda · API Gateway · DynamoDB · EC2 · S3 |
 | **ML & Models** | PyTorch · Transformers · LoRA/QLoRA · ONNX · Model Evaluation · NLP |
 | **Databases** | FAISS · PGVector · ChromaDB · PostgreSQL · SOQL · NoSQL |
-| **Engineering** | Python · C++ · Java · Docker · CI/CD · REST APIs · Git · Linux |
+| **Engineering** | Python · Java · Docker · CI/CD · REST APIs · Git · Linux |
 | **Concepts** | System Design · OOP · Multithreading · OS Fundamentals · Agile |
 
 ---
