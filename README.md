@@ -109,7 +109,7 @@ Automated document processing pipeline with containerized deployment.
 
 **Vellore Institute of Technology (VIT), Bhopal**  
 Integrated M.Tech — Artificial Intelligence & Machine Learning  
-`Aug 2022 – May 2027` &nbsp;·&nbsp; CGPA **8.60 / 10.0**
+`Aug 2022 – May 2027` &nbsp;·&nbsp; CGPA **8.69 / 10.0**
 
 *Distributed Systems · Operating Systems · Machine Learning · Deep Learning · Computer Architecture*
 
